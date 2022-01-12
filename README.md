@@ -1,7 +1,8 @@
 # Wring.js
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)  
 A Dead simple string formating and templating utility for working with YAML string collections.
 Working with [Probot](https://github.com/probot/probot) or any other chat bots? Want to store all the strings and need an efficient way to format them with user data? This is a simple solution to make the work easier.
+
+> NOTE: This is a Node.js only library
 
 # Usage
 Install Wring.js in your project
